@@ -1,0 +1,38 @@
+.heading {
+    width:100%;
+    font-size: 23px;
+    margin: 0px;
+}
+
+.note {
+    font-size: 15px;
+    color:blanchedalmond;
+}
+
+background {
+    background-size: cover;
+}
+
+.disk_img {
+    width:200px;
+    border-radius: 100px;
+}
+
+.div_speed {
+    float: left;
+}
+
+.div_volume {
+    float: right;
+}
+
+.play {
+    width:130px;
+    font-size:25px;
+}
+
+canvas {
+    border: 20px double lightpink;
+    border-radius: 50px;
+    box-shadow: -30px -30px 1000px antiquewhite;
+}
